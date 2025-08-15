@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // Linting with ESLint
+    "esbenp.prettier-vscode", // Code formatting with Prettier
+    "bradlc.vscode-tailwindcss", // Tailwind CSS IntelliSense
+    "dsznajder.eslint-plugin-jsx-a11y", // Accessibility checks for JSX
+    "formulahendry.auto-rename-tag", // Auto rename paired HTML/JSX tags
+    "formulahendry.auto-close-tag", // Auto close HTML/JSX tags
+    "ms-azuretools.vscode-docker", // Docker support
+    "aaron-bond.better-comments", // Highlight TODOs and comments
+    "GitHub.vscode-pull-request-github", // GitHub integration
+    "wix.vscode-import-cost", // Show import sizes
+    "prisma.prisma", // If you're using Prisma ORM
+    "usernamehw.errorlens" // Inline error highlighting
+  ]
+}
