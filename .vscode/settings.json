@@ -1,7 +1,7 @@
 {
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "eslint.validate": [
     "javascript",
@@ -30,5 +30,9 @@
   "docker.languageserver.formatter.enable": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "git.confirmSync": false,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  }
 }
